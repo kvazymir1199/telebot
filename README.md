@@ -26,8 +26,9 @@ git https://github.com/kvazymir1199/telebot/tree/main/file_cod_bot && cd telebot
 ```
 pip install -r requirements.txt
 ```
-Выполните команду
+Запросите у админа source.zip для доступа к изображениям
 
+Выполните команду
 ```sh
 cd file_cod_bot
 ```
